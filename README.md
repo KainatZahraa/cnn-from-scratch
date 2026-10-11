@@ -1,7 +1,5 @@
 # CIFAR-10 Classification from Scratch
 
-Data Learning for Perception — Question 1
-
 This project investigates how augmentation and regularization affect a small CNN trained from scratch on limited CIFAR-10 data. Models are evaluated on clean images and a fixed corrupted test set.
 
 ## Files
